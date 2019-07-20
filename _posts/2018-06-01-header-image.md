@@ -1,5 +1,6 @@
 ---
-title: Post with Header Image
+layout: article
+titles: fff
 tags: TeXt
 article_header:
   type: cover
