@@ -1,7 +1,5 @@
 ---
-layout: article
-titles: fff
-tags: TeXt
+key: page-about
 article_header:
   type: cover
   image:
